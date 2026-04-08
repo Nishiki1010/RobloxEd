@@ -1,11 +1,18 @@
 - [ホーム](/)
 - [概要](overview.md)
-- **カリキュラム**
+- **Phase 1: 基礎**
   - [カリキュラム全体マップ](curriculum/README.md)
   - [Lesson 1: 自分だけの世界を作ろう](curriculum/lesson01.md)
   - [Lesson 2: ステージを作ろう](curriculum/lesson02.md)
-  - [Lesson 3: 魔法のコードを書こう](curriculum/lesson03.md)
-  - [Lesson 4: 罠を作ろう](curriculum/lesson04.md)
+  - [Lesson 3: はじめてのプログラミング](curriculum/lesson03.md)
+- **Phase 2: コイン集めアドベンチャー**
+  - [Lesson 4: 冒険の舞台を作ろう](curriculum/lesson04.md)
+  - [Lesson 5: コインを出現させよう](curriculum/lesson05.md)
+  - [Lesson 6: スコアを数えよう](curriculum/lesson06.md)
+  - [Lesson 7: 画面にスコアを表示しよう](curriculum/lesson07.md)
+  - [Lesson 8: 罠を仕掛けよう](curriculum/lesson08.md)
+  - [Lesson 9: 動く仕掛けを作ろう](curriculum/lesson09.md)
+  - [Lesson 10: ゲームを完成させよう](curriculum/lesson10.md)
 - **授業ログ**
   - [授業ログについて](logs/README.md)
   - [サンプルログ](logs/2026-03-09_sample_L01.md)
