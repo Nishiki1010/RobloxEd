@@ -6,8 +6,15 @@
   - [Lesson 2: ステージを作ろう](curriculum/lesson02.md)
   - [Lesson 3: 魔法のコードを書こう](curriculum/lesson03.md)
   - [Lesson 4: 罠を作ろう](curriculum/lesson04.md)
-- **運用ツール**
-  - [授業ログDB 設計](db/lesson-log.md)
-  - [生徒カルテDB 設計](db/student-profile.md)
+- **授業ログ**
+  - [授業ログについて](logs/README.md)
+  - [サンプルログ](logs/2026-03-09_sample_L01.md)
+- **ナレッジベース**
+  - [ナレッジベースについて](knowledge/README.md)
+  - [つまずきポイント](knowledge/stumbling-points/README.md)
+  - [教え方の判断ロジック](knowledge/teaching-logic/README.md)
+  - [レッスンプラン改善](knowledge/lesson-improvements/README.md)
+  - [トラブルシューティング](knowledge/troubleshooting/README.md)
 - **ガイド**
   - [講師の1週間フロー](guide-weekly-flow.md)
+  - [文字起こし処理プロンプト](system-prompt.md)
