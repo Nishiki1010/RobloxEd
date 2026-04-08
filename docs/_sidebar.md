@@ -3,6 +3,9 @@
 - **カリキュラム**
   - [カリキュラム全体マップ](curriculum/README.md)
   - [Lesson 1: 自分だけの世界を作ろう](curriculum/lesson01.md)
+  - [Lesson 2: ステージを作ろう](curriculum/lesson02.md)
+  - [Lesson 3: 魔法のコードを書こう](curriculum/lesson03.md)
+  - [Lesson 4: 罠を作ろう](curriculum/lesson04.md)
 - **運用ツール**
   - [授業ログDB 設計](db/lesson-log.md)
   - [生徒カルテDB 設計](db/student-profile.md)
